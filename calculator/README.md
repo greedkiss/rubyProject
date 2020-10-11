@@ -17,4 +17,4 @@ chmod u+x calender.rb
 输入格式如下  
 2128234734893749837497234732493274/3294839248328947839478923  
 输入exit推出程序  
-![运行效果图](https://github.com/greedkiss/markdown_picture/blob/master/calender_running_pic)
+![运行效果图](https://github.com/greedkiss/markdown_picture/blob/master/calculate.png)
